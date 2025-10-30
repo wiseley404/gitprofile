@@ -12,7 +12,7 @@ const CONFIG = {
   base: '/gitprofile/',
   projects: {
     github: {
-      display: true, // Display GitHub projects?
+      display: false, // Display GitHub projects?
       header: 'Github Projects',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
@@ -20,7 +20,7 @@ const CONFIG = {
         limit: 8, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
-          projects: ['hello', 'wiseley404.github.io'], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          projects: ['wiseley404/hello', 'wiseley404/wiseley404.github.io'], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
       manual: {
@@ -34,60 +34,50 @@ const CONFIG = {
       projects: [
         {
           title: 'HeatMyFloor',
-          description:
-            `A modeling software, made in Java, for designing a plan for a floor heating or heating system in a house.
-            
-            The goal of the application is to allow designing a plan to generate several possible paths for the wire inside the room, based on some constraints, such as:
-            
-            \n- the wire must not cross itself,
-            
-            \n- it must keep a certain distance from the furniture,
-            
-            \n- it must also stay at a certain distance from the walls,
-            
-            \n- and other similar rules.`,
+          description: `A modeling software made in Java for designing a floor heating or heating system plan in a house.
+
+The goal of the application is to allow designing a plan that generates several possible paths for the wire inside the room, based on some constraints such as:
+
+- the wire must not cross itself,
+- it must keep a certain distance from the furniture,
+- it must also stay at a certain distance from the walls,
+- and other similar rules.`,
           imageUrl:
-            'https://github.com/wiseley404/wiseley404.github.io.gitprofile/blob/main/heatmyfloor.png',
-          link: 'https://github.com/wiseley404/wiseley404.github.io.gitprofile/blob/main/heatmyfloor.png',
+            'https://drive.google.com/file/d/171n7stqPIrbUveG8imU42rtpxuhExAHZ/view?usp=drive_link',
+          link: 'https://drive.google.com/file/d/171n7stqPIrbUveG8imU42rtpxuhExAHZ/view?usp=drive_link',
         },
         {
           title: 'Toastmasters FSA-ULaval Club',
-          description:
-            `A web platform built with Django, Python, JavaScript, and SQL, including a public site for presenting the club, and a member portal for managing both members and the club itself.
+          description: `A web platform built with Django, Python, JavaScript, and SQL, including a public site for presenting the club, and a member portal for managing both members and the club itself.
 
-            It allows, among other things, to:
-            
-            \n- schedule club meetings,
-            \n- track statistics for the club and its members,
-            \n- generate certificates,
-            \n- fill out forms,
-            \n- schedule email messages,
-            \n- and more.
-            `,
+It allows, among other things, to:
+
+- schedule club meetings,
+- track statistics for the club and its members,
+- generate certificates,
+- fill out forms,
+- schedule email messages,
+- and more.
+`,
           imageUrl:
-            'https://github.com/wiseley404/wiseley404.github.io.gitprofile/blob/main/Toastmasters-app.png',
-          link: 'https://github.com/wiseley404/wiseley404.github.io.gitprofile/blob/main/Toastmasters-app.png',
+            'https://drive.google.com/file/d/18FkCiCxxs1yIgyY-foaUnsAuOU_A0eyl/view?usp=drive_link',
+          link: 'https://drive.google.com/file/d/18FkCiCxxs1yIgyY-foaUnsAuOU_A0eyl/view?usp=drive_link',
         },
         {
           title: 'Bank system',
-          description:
-            `A banking application made in C++, as part of a university term project.
+          description:`A banking application made in C++, as part of a university term project.
 
-            It allows the client to:
-            
-            \n- create an account,
-            
-            \n- add money,
-            
-            \n- make withdrawals,
-            
-            \n- generate a bank statement,
-            
-            \n- and more.
-            `,
+It allows the client to:
+
+- create an account,
+- add money,
+- make withdrawals,
+- generate a bank statement,
+- and more.
+`,
           imageUrl:
-            'https://github.com/wiseley404/wiseley404.github.io.gitprofile/blob/main/Banksystem.png',
-          link: 'https://github.com/wiseley404/wiseley404.github.io.gitprofile/blob/main/Banksystem.png',
+            'https://drive.google.com/file/d/1ZGrejPaU-MWAIWVBnYcOpAE61F-jQ94A/view?usp=drive_link',
+          link: 'https://drive.google.com/file/d/1ZGrejPaU-MWAIWVBnYcOpAE61F-jQ94A/view?usp=drive_link',
         },
       ],
     },
