@@ -177,39 +177,16 @@ const CONFIG = {
       to: 'Now',
     },
   ],
-  publications: [
-    {
-      title: '',
-      conferenceName: '',
-      journalName: '',
-      authors: '',
-      link: '',
-      description:
-        '',
-    },
-    {
-      title: '',
-      conferenceName: '',
-      journalName: '',
-      authors: '',
-      link: '',
-      description:
-        '',
-    },
-  ],
+  publications: [],
   // Display articles from your medium or dev account. (Optional)
-  blog: {
-    source: '', // medium | dev
-    username: '', // to hide blog section, keep it empty
-    limit: , // How many articles to display. Max is 10.
-  },
+  blog: {},
   googleAnalytics: {
     id: 'G-364LP82N87', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: { id: '', snippetVersion: 6 },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
