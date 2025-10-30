@@ -34,33 +34,16 @@ const CONFIG = {
       projects: [
         {
           title: 'HeatMyFloor',
-          description: `A modeling software made in Java for designing a floor heating or heating system plan in a house.
-
-The goal of the application is to allow designing a plan that generates several possible paths for the wire inside the room, based on some constraints such as:
-
-- the wire must not cross itself,
-- it must keep a certain distance from the furniture,
-- it must also stay at a certain distance from the walls,
-- and other similar rules.`,
+          description: "A modeling software made in Java for designing a floor heating or heating system plan in a house.\nThe goal of the application is to allow designing a plan that generates several possible paths for the wire inside the room, based on some constraints such as:\n- the wire must not cross itself,\n- it must keep a certain distance from the furniture,\n- it must also stay at a certain distance from the walls,\n- and other similar rules.",
           imageUrl:
-            'https://res.cloudinary.com/ddh9wjogp/image/upload/v1761858680/Screenshot_2025-10-30_141127_ll1ooj.png',
+            'https://res.cloudinary.com/ddh9wjogp/image/upload/v1761858996/Screenshot_2025-09-22_014058_lvcdtp.png',
           link: 'https://drive.google.com/file/d/171n7stqPIrbUveG8imU42rtpxuhExAHZ/view?usp=drive_link',
         },
         {
           title: 'Toastmasters FSA-ULaval Club',
-          description: `A web platform built with Django, Python, JavaScript, and SQL, including a public site for presenting the club, and a member portal for managing both members and the club itself.
-
-It allows, among other things, to:
-
-- schedule club meetings,
-- track statistics for the club and its members,
-- generate certificates,
-- fill out forms,
-- schedule email messages,
-- and more.
-`,
+          description: "A web platform built with Django, Python, JavaScript, and SQL, including a public site for presenting the club, and a member portal for managing both members and the club itself.\nIt allows, among other things, to:\n- schedule club meetings,\n- track statistics for the club and its members,\n- generate certificates,\n- fill out forms,\n- schedule email messages,\n- and more.",
           imageUrl:
-            'https://drive.google.com/file/d/18FkCiCxxs1yIgyY-foaUnsAuOU_A0eyl/view?usp=drive_link',
+            'https://res.cloudinary.com/ddh9wjogp/image/upload/v1761858680/Screenshot_2025-10-30_141127_ll1ooj.png',
           link: 'https://drive.google.com/file/d/18FkCiCxxs1yIgyY-foaUnsAuOU_A0eyl/view?usp=drive_link',
         },
         {
@@ -76,7 +59,7 @@ It allows the client to:
 - and more.
 `,
           imageUrl:
-            'https://drive.google.com/file/d/1ZGrejPaU-MWAIWVBnYcOpAE61F-jQ94A/view?usp=drive_link',
+            'https://res.cloudinary.com/ddh9wjogp/image/upload/v1761858680/Screenshot_2025-10-30_141127_ll1ooj.png',
           link: 'https://drive.google.com/file/d/1ZGrejPaU-MWAIWVBnYcOpAE61F-jQ94A/view?usp=drive_link',
         },
       ],
