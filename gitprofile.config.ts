@@ -43,7 +43,7 @@ The goal of the application is to allow designing a plan that generates several 
 - it must also stay at a certain distance from the walls,
 - and other similar rules.`,
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://res.cloudinary.com/ddh9wjogp/image/upload/v1761858680/Screenshot_2025-10-30_141127_ll1ooj.png',
           link: 'https://drive.google.com/file/d/171n7stqPIrbUveG8imU42rtpxuhExAHZ/view?usp=drive_link',
         },
         {
