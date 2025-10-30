@@ -59,7 +59,7 @@ It allows the client to:
 - and more.
 `,
           imageUrl:
-            'https://res.cloudinary.com/ddh9wjogp/image/upload/v1761858680/Screenshot_2025-10-30_141127_ll1ooj.png',
+            'https://res.cloudinary.com/ddh9wjogp/image/upload/v1761859834/Banksystem_n2fc1u.png',
           link: 'https://drive.google.com/file/d/1ZGrejPaU-MWAIWVBnYcOpAE61F-jQ94A/view?usp=drive_link',
         },
       ],
