@@ -20,7 +20,7 @@ const CONFIG = {
         limit: 8, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
-          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          projects: ['hello', 'wiseley404.github.io'], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
       manual: {
@@ -39,16 +39,16 @@ const CONFIG = {
             
             The goal of the application is to allow designing a plan to generate several possible paths for the wire inside the room, based on some constraints, such as:
             
-            - the wire must not cross itself,
+            \n- the wire must not cross itself,
             
-            - it must keep a certain distance from the furniture,
+            \n- it must keep a certain distance from the furniture,
             
-            - it must also stay at a certain distance from the walls,
+            \n- it must also stay at a certain distance from the walls,
             
-            - and other similar rules.`,
+            \n- and other similar rules.`,
           imageUrl:
             'https://github.com/wiseley404/wiseley404.github.io.gitprofile/blob/main/heatmyfloor.png',
-          link: '',
+          link: 'https://github.com/wiseley404/wiseley404.github.io.gitprofile/blob/main/heatmyfloor.png',
         },
         {
           title: 'Toastmasters FSA-ULaval Club',
@@ -57,16 +57,16 @@ const CONFIG = {
 
             It allows, among other things, to:
             
-            - schedule club meetings,
-            - track statistics for the club and its members,
-            - generate certificates,
-            - fill out forms,
-            - schedule email messages,
-            - and more.
+            \n- schedule club meetings,
+            \n- track statistics for the club and its members,
+            \n- generate certificates,
+            \n- fill out forms,
+            \n- schedule email messages,
+            \n- and more.
             `,
           imageUrl:
             'https://github.com/wiseley404/wiseley404.github.io.gitprofile/blob/main/Toastmasters-app.png',
-          link: '',
+          link: 'https://github.com/wiseley404/wiseley404.github.io.gitprofile/blob/main/Toastmasters-app.png',
         },
         {
           title: 'Bank system',
@@ -75,19 +75,19 @@ const CONFIG = {
 
             It allows the client to:
             
-            - create an account,
+            \n- create an account,
             
-            - add money,
+            \n- add money,
             
-            - make withdrawals,
+            \n- make withdrawals,
             
-            - generate a bank statement,
+            \n- generate a bank statement,
             
-            - and more.
+            \n- and more.
             `,
           imageUrl:
             'https://github.com/wiseley404/wiseley404.github.io.gitprofile/blob/main/Banksystem.png',
-          link: '',
+          link: 'https://github.com/wiseley404/wiseley404.github.io.gitprofile/blob/main/Banksystem.png',
         },
       ],
     },
@@ -171,7 +171,7 @@ const CONFIG = {
       to: 'Now',
     },
     {
-      institution: 'University Laval',
+      institution: 'Laval University',
       degree: 'Bachelor in Software Engineering',
       from: ' January 2024',
       to: 'Now',
