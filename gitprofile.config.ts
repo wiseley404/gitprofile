@@ -181,7 +181,7 @@ const CONFIG = {
   // Display articles from your medium or dev account. (Optional)
   blog: {},
   googleAnalytics: {
-    id: 'G-364LP82N87', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
+    id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
   // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: { id: '', snippetVersion: 6 },
