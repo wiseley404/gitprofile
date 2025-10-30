@@ -47,7 +47,7 @@ const CONFIG = {
             
             - and other similar rules.`,
           imageUrl:
-            '',
+            'https://github.com/wiseley404/wiseley404.github.io.gitprofile/blob/main/heatmyfloor.png',
           link: '',
         },
         {
@@ -65,7 +65,7 @@ const CONFIG = {
             - and more.
             `,
           imageUrl:
-            '',
+            'https://github.com/wiseley404/wiseley404.github.io.gitprofile/blob/main/Toastmasters-app.png',
           link: '',
         },
         {
@@ -86,7 +86,7 @@ const CONFIG = {
             - and more.
             `,
           imageUrl:
-            '',
+            'https://github.com/wiseley404/wiseley404.github.io.gitprofile/blob/main/Banksystem.png',
           link: '',
         },
       ],
